@@ -4,8 +4,7 @@
 <br>
 
 ##  Socials 📫
-
-<a href="https://www.linkedin.com/in/kevin-spath-66509018b/" target="_blank"><img align="left" src="https://github.com/KakaoSchluerfer/Kakaoschluerfer/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="34px"/>
+<a href="https://www.linkedin.com/in/kevin-spath-66509018b/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://github.com/KakaoSchluerfer/Kakaoschluerfer/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="34px"/>
 <br>
 <br>
 ##  Current Projects & Ideas 🔭

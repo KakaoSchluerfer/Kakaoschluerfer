@@ -1,22 +1,23 @@
 ## Hi there 👋
 
-So you may be asking yourself, why "Kakaoschluerfer", cause I like to drink a cold chocolate, as It's not as sweet like an ordinary hot chocolate.
+⚡So you may be asking yourself, why "Kakaoschluerfer", cause I like to drink a cold chocolate, as It's not as sweet like an ordinary hot chocolate.
+<br>
 
-## Socials
+##  Socials 📫
 
-If you're interested in connecting, check out the links below &darr
+<a href="https://www.linkedin.com/in/kevin-spath-66509018b/"><img align="left" src="https://github.com/KakaoSchluerfer/Kakaoschluerfer/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="42px"/>
+<br>
+<br>
+##  Current Projects & Ideas 🔭
 
-
-## Current Project / Ideas
-
-As I sometimes like to cook and bake, I'm always looking for great recipes. 
+###  THE RECIPE FETCHER 🌱
+As I sometimes like to cook and bake, I always keep an eye open for great recipes.<br>
 As I Would like to have a platform, where I could collect them.
 
-And how would that work? No, not typing in every letter and word yourself, 
+And how would that work? No, not typing in every letter and word yourself,<br>
 simply enter the url to the recipe and a recipe page will be created for it.
 
 So far, that's my vision, the idea.
-
 
 
 
